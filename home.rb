@@ -14,7 +14,3 @@ attr_accessor :city, :state, :country
         @@total_instances
     end
 end
-     
-    
-    
-   hi
